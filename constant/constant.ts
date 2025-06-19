@@ -1,0 +1,1 @@
+export const XFI_RPC = "https://rpc.testnet.ms"
